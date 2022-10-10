@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Qianshu Zhang 张芊澍
 
 # Full name (for SEO)
 first_name: Alice
